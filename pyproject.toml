@@ -1,0 +1,11 @@
+[project]
+name = "podcastplayer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "podcastparser>=0.6.10",
+    "pygame>=2.6.1",
+    "requests>=2.32.4",
+]
