@@ -7,5 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "podcastparser>=0.6.10",
     "pygame>=2.6.1",
+    "pylint>=3.3.8",
     "requests>=2.32.4",
+    "ruff>=0.12.11",
 ]
